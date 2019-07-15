@@ -12,7 +12,7 @@ int main(int argc, char *args[])
 {
 	int i, j = 0;
 
-	printf("About how many MB do you want to consume? \n");
+	printf("About how many MB(s) do you want to consume? \n");
 	scanf("%d", &j);
 
 	printf("Starting memory test..\n");
